@@ -9,4 +9,8 @@ class A{
 // it is the commenct
         var s = 3
     }
+
+    private fun tets2(){
+
+    }
 }
