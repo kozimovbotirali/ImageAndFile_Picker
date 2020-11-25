@@ -6,6 +6,7 @@ package com.example.pickerimagevideoandfiles.presentation.ui.screens
 
 class A{
     private fun somethign(){
-
+// it is the commenct
+        var s = 3
     }
 }
