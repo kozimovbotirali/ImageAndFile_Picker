@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         dao = AppDatabase.getDatabase().fileDao()
         loadViews()
+        val test = 5
     }
 
     private fun loadViews() {
