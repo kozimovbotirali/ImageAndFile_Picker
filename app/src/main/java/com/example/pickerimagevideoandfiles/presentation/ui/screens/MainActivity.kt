@@ -40,6 +40,9 @@ class MainActivity : AppCompatActivity() {
         dao = AppDatabase.getDatabase().fileDao()
         loadViews()
         val test = 5
+        val test1 = 5
+        val test2 = 5
+        val test3 = 5
     }
 
     private fun loadViews() {
